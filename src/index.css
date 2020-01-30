@@ -1,0 +1,27 @@
+body {
+    padding: 50px;
+    background-color: #66CCFF;
+    font-family: sans-serif;
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: flex;
+
+}
+.cover {
+    width: 650px;
+    height: 550px;
+    background-image:  url("8_w1200.jpg");
+    background-repeat: no-repeat;
+}
+.selected {
+    width: 650px;
+    height: 550px;
+    background-image:  url("list.jpg");
+    background-repeat: no-repeat;
+
+}
+.column {
+    float: left;
+    width: 50%;
+  }
